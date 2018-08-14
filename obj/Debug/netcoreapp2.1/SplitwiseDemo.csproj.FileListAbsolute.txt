@@ -1,0 +1,14 @@
+C:\Users\mansi\source\repos\SplitwiseDemo\SplitwiseDemo\bin\Debug\netcoreapp2.1\SplitwiseDemo.deps.json
+C:\Users\mansi\source\repos\SplitwiseDemo\SplitwiseDemo\bin\Debug\netcoreapp2.1\SplitwiseDemo.runtimeconfig.json
+C:\Users\mansi\source\repos\SplitwiseDemo\SplitwiseDemo\bin\Debug\netcoreapp2.1\SplitwiseDemo.runtimeconfig.dev.json
+C:\Users\mansi\source\repos\SplitwiseDemo\SplitwiseDemo\bin\Debug\netcoreapp2.1\SplitwiseDemo.dll
+C:\Users\mansi\source\repos\SplitwiseDemo\SplitwiseDemo\bin\Debug\netcoreapp2.1\SplitwiseDemo.pdb
+C:\Users\mansi\source\repos\SplitwiseDemo\SplitwiseDemo\obj\Debug\netcoreapp2.1\SplitwiseDemo.csprojAssemblyReference.cache
+C:\Users\mansi\source\repos\SplitwiseDemo\SplitwiseDemo\obj\Debug\netcoreapp2.1\SplitwiseDemo.csproj.CoreCompileInputs.cache
+C:\Users\mansi\source\repos\SplitwiseDemo\SplitwiseDemo\obj\Debug\netcoreapp2.1\SplitwiseDemo.RazorAssemblyInfo.cache
+C:\Users\mansi\source\repos\SplitwiseDemo\SplitwiseDemo\obj\Debug\netcoreapp2.1\SplitwiseDemo.RazorAssemblyInfo.cs
+C:\Users\mansi\source\repos\SplitwiseDemo\SplitwiseDemo\obj\Debug\netcoreapp2.1\SplitwiseDemo.AssemblyInfoInputs.cache
+C:\Users\mansi\source\repos\SplitwiseDemo\SplitwiseDemo\obj\Debug\netcoreapp2.1\SplitwiseDemo.AssemblyInfo.cs
+C:\Users\mansi\source\repos\SplitwiseDemo\SplitwiseDemo\obj\Debug\netcoreapp2.1\SplitwiseDemo.RazorTargetAssemblyInfo.cache
+C:\Users\mansi\source\repos\SplitwiseDemo\SplitwiseDemo\obj\Debug\netcoreapp2.1\SplitwiseDemo.dll
+C:\Users\mansi\source\repos\SplitwiseDemo\SplitwiseDemo\obj\Debug\netcoreapp2.1\SplitwiseDemo.pdb
